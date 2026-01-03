@@ -51,25 +51,6 @@ Este projeto é um **sistema de cadastro** simples desenvolvido em **C#**, que p
 
 ---
 
-## Estrutura do Projeto
-
-```
-SistemaCadastro/
-│
-├── SistemaCadastro/
-│   ├── Form1.cs              # Formulário principal (WinForms)
-│   ├── Cadastro.cs           # Lógica de cadastro de dados
-│   ├── Program.cs            # Ponto de entrada do programa
-│   ├── Database.cs           # Conexão com o banco de dados ou arquivo
-│   ├── Dados.json            # Arquivo de dados persistentes (se for o caso)
-│   └── App.config            # Configurações do projeto
-│
-├── SistemCadadastro.sln       # Arquivo da solução do projeto
-└── README.md                 # Este arquivo
-```
-
----
-
 ## Como Funciona
 
 O sistema tem como objetivo gerenciar um conjunto de **registros**. Ao iniciar o aplicativo, o usuário poderá:
@@ -78,8 +59,6 @@ O sistema tem como objetivo gerenciar um conjunto de **registros**. Ao iniciar o
 2. **Visualizar** todos os registros cadastrados em uma lista.
 3. **Editar** registros existentes.
 4. **Deletar** registros da lista.
-
-Os dados podem ser armazenados em **arquivos locais (JSON, CSV)** ou em um **banco de dados simples**, dependendo de como o sistema foi configurado.
 
 ---
 
