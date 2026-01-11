@@ -46,8 +46,7 @@ Este projeto é um **sistema de cadastro** simples desenvolvido em **C#**, que p
 
 4. **Interaja com o sistema**:
 
-   * Caso seja uma **aplicação de console**, você verá o menu de opções no terminal.
-   * Caso seja **Windows Forms**, utilize a interface gráfica para cadastrar e visualizar os dados.
+   * interface gráfica para cadastrar e visualizar os dados.
 
 ---
 
